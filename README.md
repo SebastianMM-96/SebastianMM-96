@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![welcome](img/Welcome)
+
 - 🌱 I’m currently learning Python 
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Machine Learning
