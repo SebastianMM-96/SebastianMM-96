@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![welcome](img/Welcome.gif)
+![hi](img/hi.png)
+
 
 - 🌱 I’m currently learning Python 
 - 🤔 I’m looking for help with Machine Learning
