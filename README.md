@@ -22,7 +22,7 @@ Actualmente estoy tomando los cursos de:
 
 ## Lenguajes de programación :rocket:
 
-|<img src="img/html.png">|<img src="img/javascript.png">|<img src="img/java.png">|<img src="img/matlab.png">|<img src="img/python.png">|
+|![im1](img/html.png)|![im2](img/javascript.png)|![im3](img/java.png)|![im4](img/matlab.png)|![im5](img/python.png)|
 
 
 ## 🌱 Actualmente estoy aprendiendo...
