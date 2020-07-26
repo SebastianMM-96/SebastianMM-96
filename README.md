@@ -1,10 +1,25 @@
-### Hi there 👋
+## Hi 👋
 
-- 🌱 I’m currently learning Python 
-- 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about Machine Learning
-- 📫 How to reach me: sebasmarro10@gmail.com
-- ⚡ Fun fact:
-  - 🎮 I like video games 
-  - 🖥️ i'm passionate about programming and 
-  - 🍿 I love watching movies
+![im1](img/Welcome.png)
+
+Soy <a href="https://github.com/SebastianMM-96">Sebastián Marroquin</a>, actualmente estudiando en <a href="http://www.cua.uam.mx/">UAM-C</a> y aspirante a convertirme en un experto en Data Scientist utilizando <a href="https://www.python.org/">Python</a>.
+
+Mis intereses son:
+
+- Data Scientist
+- Python 
+- Machine learning
+- Backend
+
+Actualmente estoy tomando los cursos de:
+
+- Foundations of Data Science: K-Means Clustering in Python (Universidad de Londres & Goldsmiths, University of London)
+- HTML, CSS, and Javascript for Web Developers (Universidad Johns Hopkins)
+- Cryptography (Universidad de Stanford)
+
+
+## Lenguajes de programación :rocket:
+
+
+## Herramientas :boom:
+
