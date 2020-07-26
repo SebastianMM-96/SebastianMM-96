@@ -1,6 +1,6 @@
 ## Hi 👋
 
-![im1](img/Welcome.png)
+![Welcome](img/Welcome.png)
 
 Soy <a href="https://github.com/SebastianMM-96">Sebastián Marroquin</a>, actualmente estudiando en <a href="http://www.cua.uam.mx/">UAM-C</a> y aspirante a convertirme en un experto en Data Scientist utilizando <a href="https://www.python.org/">Python</a>.
 
