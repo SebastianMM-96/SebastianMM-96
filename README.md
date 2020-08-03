@@ -11,7 +11,7 @@ Mis intereses son:
 - Data Scientist
 - Python 
 - Machine learning
-- Backend
+- Front-End
 
 Actualmente estoy tomando los cursos de:
 
@@ -20,11 +20,12 @@ Actualmente estoy tomando los cursos de:
 - Cryptography (Universidad de Stanford)
 
 
-## Lenguajes de programación :rocket:
+## :rocket: Algunos lenguajes de programación
 
 |![im1](img/html.png)|![im2](img/javascript.png)|![im3](img/java.png)|![im4](img/matlab.png)|![im5](img/python.png)|
 
 
 ## 🌱 Actualmente estoy aprendiendo...
 
-- ![ML1](https://img.shields.io/badge/ML-K--Means-yellow)
+- React.js
+- Back-end
