@@ -17,7 +17,7 @@ Actualmente estoy tomando los cursos de:
 
 ## Repositorios que pueden interesarte
 
-[![Cómputo Concurrente](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=github-readme-stats)](https://github.com/SebastianMM-96/github-readme-stats)
+[![Cómputo Concurrente](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=Computo-Concurrente)](https://github.com/SebastianMM-96/github-readme-stats)
 
 
 ## :rocket: Lenguajes de programación
