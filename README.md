@@ -18,11 +18,15 @@ Actualmente estoy tomando los cursos de:
 
 ## :rocket: Lenguajes de programación
 
-|HTML|Javascript|Java|PHP|Python|MATLAB|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMM-96&layout=compact)](https://github.com/SebastianMM-96/github-readme-stats)
 
 ## 🌱 Actualmente estoy aprendiendo...
 
 - React.js
 - Angular.js
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMM-96&layout=compact)](https://github.com/SebastianMM-96/github-readme-stats)
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SebastianMM-96&show_icons=true&theme=radical)
+
+
