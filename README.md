@@ -17,12 +17,15 @@ Actualmente estoy tomando los cursos de:
 
 ## Repositorios que pueden interesarte
 
-[![Cómputo Concurrente](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=Computo-Concurrente)](https://github.com/SebastianMM-96/github-readme-stats)
+[![Cómputo Concurrente](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=Computo-Concurrente)](https://github.com/SebastianMM-96/Computo-Concurrente)
 
+[![Sístemas Distribuidos](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=Distributed-Systems)](https://github.com/SebastianMM-96/Distributed-Systems)
+
+[![Animaciones en HTML usando JS](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=Page-Animation-JS)](https://github.com/SebastianMM-96/Page-Animation-JS)
 
 ## :rocket: Lenguajes de programación
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMM-96)]https://github.com/SebastianMM-96/Computo-Concurrente
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMM-96)](https://github.com/SebastianMM-96/github-readme-stats)
 
 ## 🌱 Actualmente estoy aprendiendo...
 
