@@ -30,3 +30,4 @@ Actualmente estoy tomando los cursos de:
 ![Stats](https://github-readme-stats.vercel.app/api?username=SebastianMM-96&show_icons=true&theme=vue)
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=github-readme-stats)](https://github.com/SebastianMM-96/github-readme-stats)
