@@ -18,7 +18,7 @@ Actualmente estoy tomando los cursos de:
 
 ## :rocket: Lenguajes de programación
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMM-96&layout=compact)](https://github.com/SebastianMM-96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMM-96)](https://github.com/SebastianMM-96/github-readme-stats)
 
 ## 🌱 Actualmente estoy aprendiendo...
 
@@ -27,6 +27,6 @@ Actualmente estoy tomando los cursos de:
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SebastianMM-96&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=SebastianMM-96&show_icons=true&theme=vue)
 
 
