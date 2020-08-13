@@ -23,6 +23,10 @@ Actualmente estoy tomando los cursos de:
 
 [![Animaciones en HTML usando JS](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=Page-Animation-JS)](https://github.com/SebastianMM-96/Page-Animation-JS)
 
+[![Corona-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=corona-tracker)](https://github.com/SebastianMM-96/corona-tracker)
+
+[![FindUrRecipe](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=recipe-reactapp)](https://github.com/SebastianMM-96/recipe-reactapp)
+
 ## :rocket: Lenguajes de programación
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMM-96)](https://github.com/SebastianMM-96/github-readme-stats)
