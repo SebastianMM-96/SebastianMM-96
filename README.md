@@ -13,7 +13,6 @@ Actualmente estoy tomando los cursos de:
 
 - Foundations of Data Science: K-Means Clustering in Python (Universidad de Londres & Goldsmiths, University of London)
 - HTML, CSS, and Javascript for Web Developers (Universidad Johns Hopkins)
-- Cryptography (Universidad de Stanford)
 
 ## :bookmark_tabs: Repositorios que pueden interesarte
 
