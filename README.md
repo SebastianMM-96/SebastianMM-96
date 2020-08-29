@@ -27,7 +27,7 @@ Soy <a href="https://github.com/SebastianMM-96">Sebastián Marroquin</a>, actual
 
 [![Sístemas Distribuidos](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=Distributed-Systems)](https://github.com/SebastianMM-96/Distributed-Systems)
 
-[![Animaciones en HTML usando JS](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=Page-Animation-JS)](https://github.com/SebastianMM-96/Page-Animation-JS)
+[![Animaciones en HTML usando JS](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=AnimatedPage-Javascript)](https://github.com/SebastianMM-96/AnimatedPage-Javascript)
 
 [![Corona-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=corona-tracker)](https://github.com/SebastianMM-96/corona-tracker)
 
