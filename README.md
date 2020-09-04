@@ -33,7 +33,7 @@ Soy <a href="https://github.com/SebastianMM-96">Sebastián Marroquin</a>, actual
 
 [![FindUrRecipe](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=recipe-reactapp)](https://github.com/SebastianMM-96/recipe-reactapp)
 
-**:rocket: Lenguajes de programación más utilizados hasta ahora **
+**:rocket: Lenguajes de programación más utilizados hasta ahora**
 
 *NOTA: Los lenguajes de programación mostrados en la siguiente seccion no indican mi nivel de habilidad o algo así, es una métrica GitHub de en qué idiomas tengo más código en mi repositorio.*
 
