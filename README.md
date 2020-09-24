@@ -1,4 +1,4 @@
-## HelloWorld 👋
+## Hello Dev's 👋
 
 Soy <a href="https://github.com/SebastianMM-96">Sebastián Marroquin</a>, actualmente estudiando en <a href="http://www.cua.uam.mx/">UAM-C</a> y aspirante a convertirme en un experto en Data Scientist utilizando <a href="https://www.python.org/">Python</a>.
 
@@ -14,12 +14,13 @@ Soy <a href="https://github.com/SebastianMM-96">Sebastián Marroquin</a>, actual
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 
 **Mis intereses son:**
 
 - Data Scientist | Machine learning
 - HTML/CSS
-- FULL-Stack dev.
+- Full-Stack dev.
 
 **:bookmark_tabs: Repositorios que pueden interesarte:**
 
@@ -44,8 +45,4 @@ Soy <a href="https://github.com/SebastianMM-96">Sebastián Marroquin</a>, actual
 ![Stats](https://github-readme-stats.vercel.app/api?username=SebastianMM-96&show_icons=true&theme=vue)
 
 **:pushpin: Actualmente estoy aprendiendo...**
-
-- ReactJS
-- AngularJS
-- VueJS
-- MEAN/MERN/MEVN - Stack
+- Flask
