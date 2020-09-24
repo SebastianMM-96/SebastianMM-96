@@ -19,7 +19,7 @@ Soy <a href="https://github.com/SebastianMM-96">Sebastián Marroquin</a>, actual
 **Mis intereses son:**
 
 - Data Scientist | Machine learning
-- HTML/CSS
+- Python
 - Full-Stack dev.
 
 **:bookmark_tabs: Repositorios que pueden interesarte:**
