@@ -1,7 +1,5 @@
 ## Hello Dev's 👋
 
-Soy <a href="https://github.com/SebastianMM-96">Sebastián Marroquin</a>, actualmente estudiando en <a href="http://www.cua.uam.mx/">UAM-C</a> y aspirante a convertirme en un experto en Data Scientist utilizando <a href="https://www.python.org/">Python</a>.
-
 ![Follow](https://img.shields.io/github/followers/SebastianMM-96?label=Sigueme%21&logoColor=blue&style=social)
 
 **Lenguajes y herramientas de programación entre otras**
