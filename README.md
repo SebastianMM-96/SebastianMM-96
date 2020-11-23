@@ -44,6 +44,3 @@
 **:bar_chart: GitHub Stats**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SebastianMM-96&show_icons=true&theme=vue)
-
-**:pushpin: Actualmente estoy aprendiendo...**
-- Flask
