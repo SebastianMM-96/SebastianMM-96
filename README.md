@@ -1,6 +1,6 @@
 ## Hello Dev's 👋
 
-![Follow](https://img.shields.io/github/followers/SebastianMM-96?label=Sigueme%21&logoColor=blue&style=social)
+![Follow](https://img.shields.io/github/followers/SebastianMM-96?label=FollowMe%21&logoColor=blue&style=social)
 
 **Languages and programming tools :rocket:**
 
@@ -31,7 +31,7 @@
 
 **Most used programming languages :computer:**
 
-*NOTA: Los lenguajes de programación mostrados en la siguiente seccion no indican mi nivel de habilidad o algo así, es una métrica GitHub de en qué idiomas tengo más código en mi repositorio.*
+*The programming languages shown in the next section do not indicate my skill level or something like that, it is a GitHub metric of which languages.*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMM-96)](https://github.com/SebastianMM-96/github-readme-stats)
 
