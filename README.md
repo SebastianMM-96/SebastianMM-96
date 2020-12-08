@@ -2,7 +2,7 @@
 
 ![Follow](https://img.shields.io/github/followers/SebastianMM-96?label=Sigueme%21&logoColor=blue&style=social)
 
-**Lenguajes y herramientas de programación entre otras**
+**Languages and programming tools :rocket:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -17,13 +17,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-**Mis intereses son:**
-
-- Data Scientist | Machine learning
-- Python
-- Full-Stack dev.
-
-**:bookmark_tabs: Repositorios que pueden interesarte:**
+**Repositories that may interest you :bookmark_tabs:**
 
 [![Cómputo Concurrente](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=Computo-Concurrente)](https://github.com/SebastianMM-96/Computo-Concurrente)
 
@@ -35,7 +29,7 @@
 
 [![FindUrRecipe](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=recipe-reactapp)](https://github.com/SebastianMM-96/recipe-reactapp)
 
-**:rocket: Lenguajes de programación más utilizados hasta ahora**
+**Most used programming languages :computer:**
 
 *NOTA: Los lenguajes de programación mostrados en la siguiente seccion no indican mi nivel de habilidad o algo así, es una métrica GitHub de en qué idiomas tengo más código en mi repositorio.*
 
