@@ -19,13 +19,13 @@
 
 **Repositories that may interest you :bookmark_tabs:**
 
-[![Cómputo Concurrente](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=Computo-Concurrente)](https://github.com/SebastianMM-96/Computo-Concurrente)
+[![Tantei](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=tantei)](https://github.com/SebastianMM-96/tantei)
 
-[![Sístemas Distribuidos](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=Distributed-Systems)](https://github.com/SebastianMM-96/Distributed-Systems)
+[![Fake News Classifier](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=fake-news)](https://github.com/SebastianMM-96/fake-news)
 
-[![Animaciones en HTML usando JS](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=AnimatedPage-Javascript)](https://github.com/SebastianMM-96/AnimatedPage-Javascript)
+[![GIF App](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=gif-app-react)](https://github.com/SebastianMM-96/gif-app-react)
 
-[![Corona-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=corona-tracker)](https://github.com/SebastianMM-96/corona-tracker)
+[![Corona Tracker](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=corona-tracker)](https://github.com/SebastianMM-96/corona-tracker)
 
 [![FindUrRecipe](https://github-readme-stats.vercel.app/api/pin/?username=SebastianMM-96&repo=recipe-reactapp)](https://github.com/SebastianMM-96/recipe-reactapp)
 
